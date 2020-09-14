@@ -1,0 +1,50 @@
+ITEMS:
+ - String of lights
+ - Plunger
+ - Whistle from outside
+ - The perfume from Tuck's table
+
+
+!Cavity search
+ - Talk to her, "we need to find something loud"
+ - Get the whistle
+ - Talk to her again until you get the option "My cellmate insists on a cavity search"
+ - Whistle the door
+ - Talk to her "Then I'll search you"
+
+! Getting the PiPhone
+ - Get the cucumber from the cavity search
+ - Plunger, combine with cucumber
+ - Take the string of lights
+
+- Getting back to jail
+  - Get the mirror from Tuck by talking to them through the window
+   - How do you snuck back there? You mean the cavities?
+  - To the left the water flows. Up the pipe the cocktail goes. More than trees can get the axe. To get back home, hey, just relax."
+  - Entrance: Ask Tuck about it
+   - Used only to transport laundry for ironing after prohibition
+    - Laundry?
+     - The washing machine at Lefty's
+      - To the left...
+      - Straight ahead past the straw
+      - ...take the axe and chop the troll in half!
+      - Make myself comfortable on the chaise longue.
+
+Do I have to know Tuck can pronounce marriage?
+
+Anu:
+Talk to her, tell you know BJ and Faith, personally.
+Tell you found the smartphone
+Extract information to USB pen drive.
+
+She will call you later
+
+Getting to Skyloft
+ - BJ lost his access card from Salon to Prune
+ There are multiple places where the card might be
+  - Gap in floorboards (Do I need to go to prune first?)
+  - Door Mat
+  - Tip Jar
+  - Old Chair
+  - Pillow
+It is in the last place, like always!
