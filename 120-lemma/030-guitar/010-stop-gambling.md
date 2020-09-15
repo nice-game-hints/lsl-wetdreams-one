@@ -24,4 +24,4 @@ Great, now put it into the machine.
 From the hatch. Open it first ^[ Use a quarter dollar. You find it on the table at Lefty's toilet. ].
 
 # The hatch is open
-Now, put the rat in.
+Now, put the rat into the open repair hatch.

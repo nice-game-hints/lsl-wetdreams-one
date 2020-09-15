@@ -9,5 +9,7 @@ Dick would take a photo of Larry at the pier if he would have the perfect backgr
 Have you looked around? Artificial sunset anywhere?
 
 # Where?
-At the pawn shop. There is a cardboard sunset.
-[tbd](tbd)
+At the pawn shop. There is [a cardboard sunset](/050-pier69/020-pawnshop/01-panorama.md).
+
+# I have the cardboard sunset
+Great, give it to Dick. You will see him at Hell's Pawn dance floor later.
