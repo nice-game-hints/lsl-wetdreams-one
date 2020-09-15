@@ -1,5 +1,5 @@
 ---
-title: Perfect place
+title: Perfect place for the photoshoot
 keywords: timber, profile, sunset, photo
 ---
 

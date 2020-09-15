@@ -17,7 +17,7 @@ Yes, you could say so.
 # So, if I...
 What? Don't you dare.
 
-# ...remove tha air?
+# ...remove the air?
 You can't do that. What would you use.
 
 # Well, I have my...

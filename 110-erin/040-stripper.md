@@ -1,5 +1,5 @@
 ---
-title: Getting a real job
+title: Getting Erin a real job
 keywords: stripper, erin, cebe, hells, pawn, camera
 ---
 
