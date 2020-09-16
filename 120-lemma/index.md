@@ -14,7 +14,7 @@ She is ready to date you after her concert. You need to:
 A smoke machine? Hmm... what could work. Cigarettes?
 
 # No?
-There was that one guy smoking [an e-cigarette](050-pier69/010-smoking-guy.md) at the funfair.
+There was that one guy smoking [an e-cigarette](/050-pier69/010-smoking-guy.md) at the funfair.
 
 # I have the e-piece
 Give it to Lemma. It will work as a smoke machine.
