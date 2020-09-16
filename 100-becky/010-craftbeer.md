@@ -1,5 +1,5 @@
 ---
-title: Getting her some craft beer
+title: Getting Becky some craft beer
 ---
 
 Becky wants some craft ale.
