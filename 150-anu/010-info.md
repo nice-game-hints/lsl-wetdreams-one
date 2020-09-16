@@ -11,4 +11,7 @@ Prune employees have access to the Prune office area. [Apply for the intern job.
 Now, [get rid of Nari](/140-nari/index.md), first.
 
 # She's gone
-[tbd](tbd)
+Now, [use the computer](/030-prune/060-office/020-computer.md) to extract the info. Stick the USB drive into it.
+
+# I have it!
+Great, take it to Anu.

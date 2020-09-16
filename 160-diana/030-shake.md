@@ -34,3 +34,6 @@ The tap on Lefty's desk.
 
 # Where?!
 Oh, you meant where you should pour it _into_? A container, of course ^[ Take the thermal jug in front of Prune HQ and use that. ].
+
+# I got it
+Give it to Diana.

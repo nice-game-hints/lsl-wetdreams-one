@@ -1,5 +1,5 @@
 ---
-title: Using the computer
+title: Using the old computer
 keywords: laboratory, remote control
 ---
 

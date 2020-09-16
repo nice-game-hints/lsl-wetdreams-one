@@ -22,3 +22,6 @@ She wants her [protein shake](030-shake.md).
 
 # She had it
 It's a date! Now, [get a room](/020-leftys/060-room.md) for you two.
+
+# I have room
+Go tell Diana.
