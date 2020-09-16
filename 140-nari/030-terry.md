@@ -3,7 +3,7 @@ title: Treasure Loot Terry
 keywords: nerd, nari, old laboratory
 ---
 
-Nari would nerd out with you really good. The last nerdy thing she wants you to do for her is to get her a copy of Treasure Loot Terry (the name sound familiar).
+Nari would nerd out with you really good. The last nerdy thing she wants you to do for her is to get her a copy of Treasure Loot Terry (the name sounds oddly familiar).
 
 # Where do I find it?
 Where do all the old retro games end up? Before they reboot.
