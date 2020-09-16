@@ -3,7 +3,7 @@ title: Getting Erin a real job
 keywords: stripper, erin, cebe, hells, pawn, camera
 ---
 
-Erin wants to become a _real_ stripper. Go get her a stripper job.
+After you have [got her parcel](020-parcel/index.md) and [fixed the Internet](030-internet.md) Erin wants to become a _real_ stripper. Go get her a stripper job.
 
 # Where?
 The hottest night club in town, of course. Hell's Pawn. ^[ You need to advance with Lemma to get there. ]
