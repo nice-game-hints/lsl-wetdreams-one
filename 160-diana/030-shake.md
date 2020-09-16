@@ -21,7 +21,7 @@ Thpun them... I mean spun them in a powerful centrifuge.
 Like, washing machines.
 
 # Lefty's
-You need to [fix the brewashing machine first](/020-lefty/030-backroom/030-fix-brewery.md).
+You need to [fix the brewashing machine first](/020-leftys/030-backroom/030-fix-brewery.md).
 
 # It is fixed
 Well, then. Insert the ingrediends (kale, cucumber, expired soy, brotein powder) into the brewashing machine. Then, when they are all in, use the machine (just click on it).

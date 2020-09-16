@@ -12,4 +12,4 @@ And you talked with him? He doesn't want to play anymore.
 Go tell Lemma.
 
 # Her guitar
-On top of Stix quitting out her guitar is missing. [Go find it.](../030-guitar.md)
+On top of Stix quitting out her guitar is missing. [Go find it.](../030-guitar/index.md)

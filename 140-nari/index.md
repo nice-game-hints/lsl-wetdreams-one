@@ -20,4 +20,4 @@ Now, you just need [a room](/020-leftys/060-room.md).
 Tell Nari that and you will meet there.
 
 # Sex!
-And [not just plain old vanilla sex](040-lovenest.md)!
+And [not just plain old vanilla sex](040-lovenest/index.md)!

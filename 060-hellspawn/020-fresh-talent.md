@@ -9,7 +9,7 @@ Cébé is always looking for some new fresh extraordinary acts.
 Fresh!
 
 # Who?
-Have you talked with Erin? As soon as you get [her parcel](/110-erin/020-parcel.md) and [fix the Internet](/110-erin/030-internet.md) I think she would be ready to apply here.
+Have you talked with Erin? As soon as you get [her parcel](/110-erin/020-parcel/index.md) and [fix the Internet](/110-erin/030-internet.md) I think she would be ready to apply here.
 
 # She is
 Mention her name to Cébé.

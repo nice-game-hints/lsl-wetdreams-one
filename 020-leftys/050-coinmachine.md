@@ -18,7 +18,7 @@ At the funfair? Did you even look around?
 There is the embossing machine that says (if you look at it) you can _make your own golden doubloon replica_ with it. I don't think Lefty's machine notices if the coin is replica.
 
 # But I need gold
-Right. Have you distributed any [posters](/120-lemmy/020-posters.md), yet? ^[ Go put a poster onto the backroom wall at Lefty's. Take the golden tooth. ]
+Right. Have you distributed any [posters](/120-lemma/020-posters.md), yet? ^[ Go put a poster onto the backroom wall at Lefty's. Take the golden tooth. ]
 
 # I have gold
 Put it into the embossing machine and press yourself a golden doubloon. You can use it in the coin machine.
