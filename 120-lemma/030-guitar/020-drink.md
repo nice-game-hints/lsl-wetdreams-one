@@ -3,7 +3,7 @@ title: Fixing Stix a drink
 keywords: lefty, virgin, guitar, pier
 ---
 
-After Stix has [stopped gambling] he would need a drink. They only sell those non-alcoholic drinks at the funfair.
+After Stix has [stopped gambling](010-stop-gambling.md) he would need a drink. They only sell those non-alcoholic drinks at the funfair.
 
 # Who would sell Larry a drink?
 Well, Lefty, of course! Ask him to give you the strongest drink he has.
