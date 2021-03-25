@@ -1,6 +1,6 @@
 ---
 title: Getting the bowling ball
-keywords: melon, prunepal
+keywords: melon, watermelon, prunepal
 ---
 
 That's Steven's bowling ball.
