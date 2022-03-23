@@ -35,7 +35,7 @@ _Up the pipe the cocktail goes._
 
 Select the option "Straight ahead past the straw."
 
-# Straigh he goes
+# Straight he goes
 _More than trees can get the axe._
 
 Select the option "...take the axe and chop the troll in half!"
