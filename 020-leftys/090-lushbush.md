@@ -1,6 +1,7 @@
 ---
 title: The Lush Bush
 keywords: old laboratory, hedge trimmer, bush, junction box, treasure, loot, terry
+achievements: cut-content
 ---
 
 The lush bush is too thick. Maybe you could trim it.

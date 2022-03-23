@@ -1,6 +1,7 @@
 ---
 title: Entering the dark room
 keywords: dick, lemma, erin, threesome, hells, pawn
+achievements: bechdel-test, leftys-dark-secret, going-for-girls, i-prefer-dick
 ---
 
 Larry won't go into the dark room without Lemma and Erin.

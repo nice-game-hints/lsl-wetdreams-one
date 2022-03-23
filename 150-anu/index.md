@@ -1,5 +1,6 @@
 ---
 title: Anu
+achievements: dark-and-drunk
 ---
 
 You meet Anu in the Jail. If you want to meet her again, you have to [get back into the jail](/070-jail/040-back.md).

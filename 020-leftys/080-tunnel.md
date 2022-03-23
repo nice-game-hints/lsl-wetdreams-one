@@ -1,6 +1,7 @@
 ---
 title: Mysterious tunnel
 keywords: jail, mirror, instructions, tuck, washing machine
+achievements: i-like-roleplaying
 ---
 
 The washing machine has stopped its program and there is a mysterious tunnel instead.

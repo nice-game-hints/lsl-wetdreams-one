@@ -1,5 +1,6 @@
 ---
 title: Hang the posters
+achievements: lazybones
 ---
 
 Lemma gave you a stack of posters. Hang them on walls to help her spread the word.
@@ -17,7 +18,7 @@ Okay, here goes:
  * Inside the gym
  * Outside Lefty's
  * Inside Lefty's, next to the jukebox
- * In the toilet ^[ Use darts from the dart table to make the poster stick.]
+ * [In the toilet, at Lefty's](toilet-poster.md)
  * Lefty's back room back wall
  * Pier 69 fence, next to the entrance
  * At the funfair, behind the pawnshop (You get a conspiracy pamphlet)
